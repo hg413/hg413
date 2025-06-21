@@ -27,24 +27,19 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=nodedotjs)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-	![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
   ![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue) 
 </div>
 <br />
 
 ## 💻 Projetos que gostei de fazer
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduhaag&repo=meteora-modas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduhaag/meteora-modas)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduhaag&repo=study-tracker&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduhaag/study-tracker)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduhaag&repo=notiway&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduhaag/notiway)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduhaag&repo=github-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduhaag/github-blog)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduhaag&repo=memoteca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduhaag/memoteca)
 
 
 ## 📈 Minhas Estatísticas
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduhaag&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduhaag&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hg413&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hg413&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
   ![Meus commits](https://raw.githubusercontent.com/eduhaag/eduhaag/cf3cd9e95eb569a656e0cf8d76601be05ad09084/github-contribution-grid-snake-dark.svg)
 </div>
