@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello World, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+  <h1 align="center">Hello World, I'm Bruno Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
   <h2>Sejá bem vindo</h2>
 
   [![Meu perfil na DIO](https://img.shields.io/badge/Meu_perfil_na_DIO-purple?style=for-the-badge&link=https%3A%2F%2F)](https://web.dio.me/users/bruno413890?tab=achievements)
