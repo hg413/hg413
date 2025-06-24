@@ -37,8 +37,5 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hg413&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hg413&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-  ![Meus commits](https://raw.githubusercontent.com/eduhaag/eduhaag/cf3cd9e95eb569a656e0cf8d76601be05ad09084/github-contribution-grid-snake-dark.svg)
 </div>
 
